@@ -1,0 +1,15 @@
+# Thumbs.db нафиг
+Thumbs.db
+
+# .DS_Store нафиг
+.DS_Store 
+
+# temp\ и tmp\ нафиг
+temp/
+tmp/
+
+# файлы *.*_old нафиг
+*.*_old
+
+# файлы *.*_backup нафиг
+*.*_backup
